@@ -1,6 +1,6 @@
 # Hello, I'm Jun 👋
 
-> *"Code is poetry written in logic."*
+> *"好好學習，萬事順意"*
 
 ## 🎯 About Me
 
